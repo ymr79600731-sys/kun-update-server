@@ -1,8 +1,8 @@
-version: 0.1.7
+version: 0.1.8
 files:
-  - url: https://github.com/ymr79600731-sys/kun-update-server/releases/download/v0.1.7/AI.-0.1.7-win-x64.exe
-    sha512: GyFN6hhF9RUA8rKZx57eJil395Iob8WEi2Mfxg5AK4CDBA7x1C5EeC7GnvVv8bfogNW/WDgFvwxUpu60/5zvfQ==
-    size: 136220977
-path: https://github.com/ymr79600731-sys/kun-update-server/releases/download/v0.1.7/AI.-0.1.7-win-x64.exe
-sha512: GyFN6hhF9RUA8rKZx57eJil395Iob8WEi2Mfxg5AK4CDBA7x1C5EeC7GnvVv8bfogNW/WDgFvwxUpu60/5zvfQ==
-releaseDate: '2026-06-17T11:17:31.090Z'
+  - url: https://github.com/ymr79600731-sys/kun-update-server/releases/download/v0.1.8/AI.-0.1.8-win-x64.exe
+    sha512: PPkfFKzIIuMiiKFh9U8GBUwd+jFBsGi35xkINhhb0LfWaDnnBqpecUfb/CraywkH2P+7lU0NmIvNPfSmav8MVw==
+    size: 136220888
+path: https://github.com/ymr79600731-sys/kun-update-server/releases/download/v0.1.8/AI.-0.1.8-win-x64.exe
+sha512: PPkfFKzIIuMiiKFh9U8GBUwd+jFBsGi35xkINhhb0LfWaDnnBqpecUfb/CraywkH2P+7lU0NmIvNPfSmav8MVw==
+releaseDate: '2026-06-17T11:39:28.287Z'
