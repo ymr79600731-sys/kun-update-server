@@ -1,8 +1,8 @@
-version: 0.1.0
+version: 0.1.1
 files:
-  - url: AI工具箱-0.1.0-win-x64.exe
-    sha512: placeholder
-    size: 0
-path: AI工具箱-0.1.0-win-x64.exe
-sha512: placeholder
-releaseDate: '2026-06-17T00:00:00.000Z'
+  - url: https://github.com/ymr79600731-sys/kun-update-server/releases/download/v0.1.1/AI.-0.1.1-win-x64.exe
+    sha512: GNw6D10J8XmrCV+hhhB4zvp4om1gyjEoXXhL64VZwbTqjp02hchWquhRpe0gzwZSCtqlzGWyaHnWZZOn5jIuKA==
+    size: 136226820
+path: https://github.com/ymr79600731-sys/kun-update-server/releases/download/v0.1.1/AI.-0.1.1-win-x64.exe
+sha512: GNw6D10J8XmrCV+hhhB4zvp4om1gyjEoXXhL64VZwbTqjp02hchWquhRpe0gzwZSCtqlzGWyaHnWZZOn5jIuKA==
+releaseDate: '2026-06-17T09:35:49.835Z'
