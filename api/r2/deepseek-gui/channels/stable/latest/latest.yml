@@ -1,8 +1,8 @@
-version: 0.1.8
+version: 0.0.1
 files:
-  - url: https://github.com/ymr79600731-sys/kun-update-server/releases/download/v0.1.8/AI.-0.1.8-win-x64.exe
-    sha512: PPkfFKzIIuMiiKFh9U8GBUwd+jFBsGi35xkINhhb0LfWaDnnBqpecUfb/CraywkH2P+7lU0NmIvNPfSmav8MVw==
-    size: 136220888
-path: https://github.com/ymr79600731-sys/kun-update-server/releases/download/v0.1.8/AI.-0.1.8-win-x64.exe
-sha512: PPkfFKzIIuMiiKFh9U8GBUwd+jFBsGi35xkINhhb0LfWaDnnBqpecUfb/CraywkH2P+7lU0NmIvNPfSmav8MVw==
-releaseDate: '2026-06-17T11:39:28.287Z'
+  - url: https://github.com/ymr79600731-sys/kun-update-server/releases/download/v0.0.1/Hermes-Toolbox-0.0.1-win-x64.exe
+    sha512: ap/IMJe/WYz6DkRRxEKJ+BD8eQHFQUAnTwGJz1dckVR94e1ypG8ghd66U/Zt0S/VW3SZjbcws4HHz6q+cJUAcw==
+    size: 130933552
+path: https://github.com/ymr79600731-sys/kun-update-server/releases/download/v0.0.1/Hermes-Toolbox-0.0.1-win-x64.exe
+sha512: ap/IMJe/WYz6DkRRxEKJ+BD8eQHFQUAnTwGJz1dckVR94e1ypG8ghd66U/Zt0S/VW3SZjbcws4HHz6q+cJUAcw==
+releaseDate: '2026-06-18T09:04:19.928Z'
