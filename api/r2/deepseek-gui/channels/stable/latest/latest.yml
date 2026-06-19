@@ -1,8 +1,8 @@
-version: 0.0.1
+version: 0.0.2
 files:
-  - url: https://github.com/ymr79600731-sys/kun-update-server/releases/download/v0.0.1/Hermes-Toolbox-0.0.1-win-x64.exe
-    sha512: ap/IMJe/WYz6DkRRxEKJ+BD8eQHFQUAnTwGJz1dckVR94e1ypG8ghd66U/Zt0S/VW3SZjbcws4HHz6q+cJUAcw==
-    size: 130933552
-path: https://github.com/ymr79600731-sys/kun-update-server/releases/download/v0.0.1/Hermes-Toolbox-0.0.1-win-x64.exe
-sha512: ap/IMJe/WYz6DkRRxEKJ+BD8eQHFQUAnTwGJz1dckVR94e1ypG8ghd66U/Zt0S/VW3SZjbcws4HHz6q+cJUAcw==
-releaseDate: '2026-06-18T09:04:19.928Z'
+  - url: https://github.com/ymr79600731-sys/kun-update-server/releases/download/v0.0.2/Hermes-.-0.0.2-win-x64.exe
+    sha512: Qj+k6oASwX/TFiFhBbn6UJcltwTK4rIsdbRgV3S0waOy59H/bL6gsWfoMS6ST+iqjhMSlLyHB/n312XIiWvGUw==
+    size: 130937361
+path: https://github.com/ymr79600731-sys/kun-update-server/releases/download/v0.0.2/Hermes-.-0.0.2-win-x64.exe
+sha512: Qj+k6oASwX/TFiFhBbn6UJcltwTK4rIsdbRgV3S0waOy59H/bL6gsWfoMS6ST+iqjhMSlLyHB/n312XIiWvGUw==
+releaseDate: '2026-06-19T02:58:34.350Z'
